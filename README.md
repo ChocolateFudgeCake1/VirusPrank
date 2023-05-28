@@ -11,3 +11,6 @@ This batch file called "DONOTCLICK" when clicked on destroys the windows operati
 
 This program is comletely harmless. All it does is generate a random set of numbers making it *look* like there is a virus, but there really isn't.
 
+### Chrome.Ink
+
+This shortcut looks like Google Chrome, but when clicked on shutdown a windows machine.
