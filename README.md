@@ -9,5 +9,5 @@ This batch file called "DONOTCLICK" when clicked on destroys the windows operati
 
 ### Matrix.bat
 
-This program is comletely harmless. All it does is generate a random set of numbers making it *look* like there is a virus, but there really isn't
+This program is comletely harmless. All it does is generate a random set of numbers making it *look* like there is a virus, but there really isn't.
 
